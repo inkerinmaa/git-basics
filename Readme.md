@@ -1,5 +1,3 @@
-# Test project
+# Test Project
 
-Bugfix
-
-One more bugfix!
+Lesson 2
